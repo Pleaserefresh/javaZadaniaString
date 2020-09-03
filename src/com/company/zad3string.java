@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class zad3 {
+public class zad3string {
     public static void main(String[] args) {
 
         Scanner skaner = new Scanner(System.in);

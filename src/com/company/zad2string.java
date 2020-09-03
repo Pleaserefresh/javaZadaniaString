@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class zad2 {
+public class zad2string {
     public static void main(String[] args) {
         Scanner skaner = new Scanner(System.in);
         System.out.print("Podaj imię: ");
